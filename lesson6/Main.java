@@ -5,7 +5,7 @@ import java.util.Random;
 public class Main {
 
     public static void main(String[] args) {
-        createTrees(1000, 4, 25);
+        createTrees(500, 6, 21);
     }
 
     private static void createTrees(int trees, int level, int range) {
